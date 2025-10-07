@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Preparar informe mensual",
+    "Descripcion": "Revisar datos de ventas y generar el informe de este mes.",
+    "Estado": 0
+  },
+  {
+    "Id": 2,
+    "Titulo": "Reuni\u00F3n con el equipo de desarrollo",
+    "Descripcion": "Definir las nuevas funcionalidades para la pr\u00F3xima versi\u00F3n del sistema.",
+    "Estado": 1
+  },
+  {
+    "Id": 3,
+    "Titulo": "Actualizar documentaci\u00F3n t\u00E9cnica",
+    "Descripcion": "Agregar los nuevos diagramas UML y actualizar los endpoints del API.",
+    "Estado": 2
+  },
+  {
+    "Id": 4,
+    "Titulo": "Revisar bugs pendientes",
+    "Descripcion": "Verificar los errores reportados en el m\u00F3dulo de usuarios.",
+    "Estado": 0
+  },
+  {
+    "Id": 5,
+    "Titulo": "Backup del servidor",
+    "Descripcion": "Realizar copia de seguridad completa del servidor de producci\u00F3n.",
+    "Estado": 2
+  }
+]
